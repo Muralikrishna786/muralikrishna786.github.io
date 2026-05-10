@@ -37,8 +37,6 @@ Seeking opportunities as:
 
 ## Programming Languages
 - Python
-- Java
-- C
 
 ## Data Science & Machine Learning
 - Supervised Learning
